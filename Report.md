@@ -7,9 +7,8 @@
 В результате тестирования выявлены следующие дефекты:
 
 - 80b427f8-92cd-3aae-ba04-3927fbe17c6: FAIL
-- 387eedc6-12e9-3b32-9881-63b6b5e85317
-Error: Could not find or load main class KeyValidator387eedc6-12e9-3b32-9881-63b6b5e85317
-Caused by: java.lang.ClassNotFoundException: KeyValidator387eedc6-12e9-3b32-9881-63b6b5e85317
+- 387eedc6-12e9-3b32-9881-63b6b5e85317: FAIL
+
 - 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1: OK
 ## Описание процесса тестирования
 
