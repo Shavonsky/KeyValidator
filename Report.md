@@ -1,8 +1,8 @@
 # Отчёт о тестировании KeyValidator
 ## Краткое описание
-16.08.20 - 16.08.2020 было проведено Installation Testing приложения KeyValidator.
+16.08.20 - 16.08.2020 было проведено Installation Testing и Sanity Tasting приложения KeyValidator.
 
-На тестирование затрачено: <время в часах>
+На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
 
@@ -10,12 +10,9 @@
 - 387eedc6-12e9-3b32-9881-63b6b5e85317
 Error: Could not find or load main class KeyValidator387eedc6-12e9-3b32-9881-63b6b5e85317
 Caused by: java.lang.ClassNotFoundException: KeyValidator387eedc6-12e9-3b32-9881-63b6b5e85317
-
 - 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1: OK
 ## Описание процесса тестирования
-В процессе тестирования использовались следующие артефакты:
 
-- KeyValidator.class
 
 
 В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md:
